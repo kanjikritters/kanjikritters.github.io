@@ -788,6 +788,10 @@ h1 .li, h2 .li, h3 .li, p .li {
     html {
         font-size: 9pt;
     }
+
+    body:before {
+        background-image: url('assets/images/KK_WebBg_Mobile.png');
+    }
 }
 
 /*Tablet*/
@@ -797,7 +801,7 @@ h1 .li, h2 .li, h3 .li, p .li {
     }
 
     body:before {
-        background-image: url('assets/KK_WebBg_Mobile/KK_WebBg.png');
+        background-image: url('assets/images/KK_WebBg_Mobile.png');
     }
 }
 
