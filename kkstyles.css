@@ -77,7 +77,7 @@ body:before {
     z-index: 0;
     pointer-events: none;
     transform: scale(1);
-    background-attachment: scroll;
+    background-attachment: fixed;
     /*background-image: url('assets/images/KK_WebBg.png');*/
     background-position: center center;
     background-repeat: no-repeat;
@@ -791,7 +791,6 @@ h1 .li, h2 .li, h3 .li, p .li {
 
     body:before {
         background-image: url('assets/images/KK_WebBg_Mobile.png');
-        background-repeat: no-repeat;
     }
 }
 
@@ -803,7 +802,6 @@ h1 .li, h2 .li, h3 .li, p .li {
 
     body:before {
         background-image: url('assets/images/KK_WebBg_Mobile.png');
-        background-repeat: no-repeat;
     }
 }
 
