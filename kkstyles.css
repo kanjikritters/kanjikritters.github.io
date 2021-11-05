@@ -791,6 +791,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 
     body:before {
         background-image: url('assets/images/KK_WebBg_Mobile.png');
+        background-repeat: no-repeat;
     }
 }
 
@@ -802,6 +803,7 @@ h1 .li, h2 .li, h3 .li, p .li {
 
     body:before {
         background-image: url('assets/images/KK_WebBg_Mobile.png');
+        background-repeat: no-repeat;
     }
 }
 
