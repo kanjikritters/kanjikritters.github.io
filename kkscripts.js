@@ -762,7 +762,7 @@
         }
     };
     new timer('timer01', {
-        mode: 'default',
+        mode: 'countdown',
         precision: 4,
         completeUrl: '',
         timestamp: 1636232400, /*6 Nov 2021 21:00*/
