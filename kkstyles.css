@@ -449,6 +449,34 @@ h1 .li, h2 .li, h3 .li, p .li {
     margin: 0.75em 0 0 1em;
 }
 
+#text05 br + br {
+    margin-top: 0.675rem;
+}
+
+#text05 {
+    color: #999999;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 0.125rem;
+    width: calc(100% + 0.125rem);
+    width: 100%;
+    font-size: 1em;
+    line-height: 1.125;
+    font-weight: 400;
+    text-shadow: 0rem 0rem 0.0625rem #0D0D0D;
+    margin-top: 1rem !important;
+    margin-bottom: 1rem !important;
+}
+
+#text05 a {
+    color: #CCCCCC;
+    text-decoration: none;
+}
+
+#text05 a:hover {
+    color: #FFFFFF;
+}
+
+
 #text03 br + br {
     margin-top: 0.675rem;
 }
