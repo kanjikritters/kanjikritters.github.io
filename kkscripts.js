@@ -765,7 +765,7 @@
         mode: 'default',
         precision: 4,
         completeUrl: '',
-        timestamp: 1636203600, /*1638351000,  1 Dec 2021*/
+        timestamp: 1636232400, /*6 Nov 2021 21:00*/
         labelStyle: 'full'
     });
 })
